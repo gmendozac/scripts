@@ -1,0 +1,1 @@
+﻿& C:\Users\labinf\Downloads\SQLDEV_2019\SETUP.EXE /ConfigurationFile=C:\Users\labinf\Downloads\SQLDEV_2019\ConfigurationFile.ini
